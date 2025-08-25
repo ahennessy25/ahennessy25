@@ -9,7 +9,7 @@ I'm a graduate student in Data Science at American University with a strong foun
 - ⚙️ Tech: Python, R, SQL, Tableau, Power BI, spaCy, TensorFlow, GitHub
 
 ### 🛠️ Selected Projects
-- **[Berlin U-Bahn Map](https://github.com/ahennessy25/berlin-subway-map)**  
+- **[Berlin U-Bahn Map](https://github.com/ahennessy25/berlin-subway-visualization)**  
   Interactive map of Berlin’s subway using Python, GeoPandas & Folium
 
 - **[NLP Lab: Text Analysis](https://github.com/ahennessy25/nlp-lab-text-analysis)**  
