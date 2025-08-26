@@ -21,6 +21,9 @@ I'm a graduate student in Data Science at American University with a strong foun
 - **[Vienna Metro Map](https://github.com/ahennessy25/metro-ahennessy)**  
   Leaflet map built with R and Quarto to visualize U-Bahn routes
 
+- **[Mecklenburg County, NC Home Loan Analysis](https://github.com/abielli20/2023-Mecklenburg-Loan-Analysis)**  
+  Leaflet map built with R and Quarto to visualize U-Bahn routes
+
 ### 💼 Recent Work @ NetApp
 As a Data Science Intern, I:
 - Built an ML model to route finance help desk tickets to the right handler
