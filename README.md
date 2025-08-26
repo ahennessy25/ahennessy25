@@ -21,8 +21,11 @@ I'm a graduate student in Data Science at American University with a strong foun
 - **[Vienna Metro Map](https://github.com/ahennessy25/metro-ahennessy)**  
   Leaflet map built with R and Quarto to visualize U-Bahn routes
 
-- **[Mecklenburg County, NC Home Loan Analysis](https://github.com/abielli20/2023-Mecklenburg-Loan-Analysis)**  
-  Leaflet map built with R and Quarto to visualize U-Bahn routes
+- **[Mecklenburg County, NC Home Loan Data Analysis](https://github.com/abielli20/2023-Mecklenburg-Loan-Analysis)**  
+  Co-author of data analysis project analyzing 2023 home loan data in Mecklenburg County, North Carolina.
+
+  Collaborative analysis of racial and income disparities in mortgage lending in Mecklenburg County, NC. 
+  Includes data wrangling, statistical summaries, and visualizations of approval rates across demographic groups.
 
 ### 💼 Recent Work @ NetApp
 As a Data Science Intern, I:
