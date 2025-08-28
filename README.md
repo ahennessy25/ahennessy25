@@ -10,7 +10,7 @@ I'm a graduate student in Data Science at American University with a strong foun
 
 ### 🛠️ Selected Projects
 - **[Berlin U-Bahn Map](https://github.com/ahennessy25/berlin-subway-visualization)**  
-  Interactive map of Berlin’s subway using Python, GeoPandas & Folium
+  Plotly interactive map of Berlin’s subway using R and Quarto to visualize Berlin U-Bahn routes
 
 - **[NLP Lab: Text Analysis](https://github.com/ahennessy25/nlp-lab-text-analysis)**  
   Tokenization, NER, and sentiment analysis using spaCy & TextBlob
@@ -19,7 +19,7 @@ I'm a graduate student in Data Science at American University with a strong foun
   Semantic similarity with pretrained word2vec embeddings
 
 - **[Vienna Metro Map](https://github.com/ahennessy25/metro-ahennessy)**  
-  Leaflet map built with R and Quarto to visualize U-Bahn routes
+  Plotly interactive map of Vienna's subway using R and Quarto to visualize Vienna U-Bahn routes
 
 ### 🏠 Mecklenburg County Home Loan Analysis
 
